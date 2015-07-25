@@ -1,29 +1,25 @@
 # Site settings
-title: Grayscale
-email: your-email@domain.com
-url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: MPR
+email: mompreneurswebde@gmail.com
+url: http://mpr-web.github.io/
+description: "MomPreneurs GitHub Repo"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary-dark: '#000000'
-  links: '#219ab3'
+  links: '#C3A2A4'
 
 # Footer settings
-footer: Your Website
+footer: Theme StartBootstrap - Jekyll Version Jerome Lachaud
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: https://twitter.com/SBootstrap
+    url: https://twitter.com/mompreneursde
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: https://facebook.com/mompreneursde
   - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+    url: https://github.com/MomPreneurs
 
 # Build settings
 markdown: kramdown
